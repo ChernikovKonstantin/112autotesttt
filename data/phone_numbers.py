@@ -1,0 +1,4 @@
+class PhoneNumbers:
+    AON = '9774039380'
+    FOREIGN = '9978463021511'
+    AON_FOR_LOCATION = '9623658966'
